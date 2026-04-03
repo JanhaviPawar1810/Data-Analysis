@@ -1,5 +1,6 @@
 This repository contains a collection of data analysis projects utilizing Power BI, Tableau, and Python Jupyter Notebooks. It provides various tools and techniques to derive actionable insights from complex datasets.
 Contents of the Repository:
+
 Power BI Dashboards: Interactive and dynamic dashboards created with Power BI for visualizing and exploring data trends.
 
 Tableau Dashboards: Detailed and comprehensive dashboards built with Tableau, featuring advanced visualizations and interactive reports.
